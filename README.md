@@ -1,6 +1,6 @@
-# Context-INformed Grounding Supervision (CINGS)
+# Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact
 
-This is the official codebase for [**Context-Informed Grounding Supervision (CINGS)**](https://arxiv.org/abs/2506.15480). It includes the training and inference code for reproducing our main experiments.
+This is the official codebase for [**Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact**](https://arxiv.org/abs/2506.15480). It includes the training and inference code for reproducing our main experiments.
 
 ---
 
