@@ -121,3 +121,6 @@ If you use this work, please cite:
 ## 🙏 Acknowledgements
 
 This repository builds on [Meta’s LLaMA Recipes](https://github.com/facebookresearch/llama-recipes), and part of the codes are from [Official LLaVA Repo](https://github.com/haotian-liu/LLaVA). We are grateful to the community and all contributors.
+
+## Point of Contact
+For any questions about the implementation or content of the paper, you could contact `hyunjil at cs.unc.edu`
