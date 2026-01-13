@@ -14,15 +14,11 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Data & Checkpoints
+## 📦 Data 
 
 ### 🔹 Data
 
 We use a filtered version of the [Self-RAG dataset](https://huggingface.co/datasets/selfrag/selfrag_train_data) for training.
-
-### 🔹 Checkpoints
-
-Model checkpoints will be released soon. Stay tuned!
 
 ---
 
